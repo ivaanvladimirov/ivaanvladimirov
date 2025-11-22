@@ -1,4 +1,4 @@
-# Hola, soy Iván Vladímirov 👋
+# Hola, soy Iván Vladimirov Banchev 👋
 
 Estudiante de Ingeniería Informática de 4º año en la **Universidad Complutense de Madrid (UCM)**.
 Recientemente completé una estancia Erasmus+ en el **Trinity College Dublin**, especializándome en programación de sistemas y redes.
