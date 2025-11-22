@@ -3,7 +3,7 @@
 Estudiante de Ingeniería Informática de 4º año en la **Universidad Complutense de Madrid (UCM)**.
 Recientemente completé una estancia Erasmus+ en el **Trinity College Dublin**, especializándome en programación de sistemas y redes.
 
-Me apasiona el desarrollo de software robusto, la Inteligencia Artificial y resolver problemas complejos mediante algoritmos eficientes.
+Me apasiona el desarrollo de software, la Inteligencia Artificial y la ciberseguridad.
 
 ---
 
